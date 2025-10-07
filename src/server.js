@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 require('dotenv').config()
 const PORT = process.env.PORT || 8080
-const hej = process.env.PORT || "not defined"
+const hejj = process.env.PORT || "not defined"
 
 console.log(`Node.js ${process.version}`)
 
